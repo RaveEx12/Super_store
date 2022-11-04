@@ -1,2 +1,2 @@
 # Super_store
-This repository contain analysis and dashboard of superstore
+This repository contain Ms_Excel analysis and dashboard of superstore
